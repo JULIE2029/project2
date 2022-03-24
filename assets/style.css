@@ -1,0 +1,71 @@
+body{
+          width: 100%;
+          margin: 0%;
+          padding: 0%;
+          background-color: black;
+          font-family: Comic Sans MS;
+          
+}   
+.hero button {
+        width: 80PX;
+        height: 0;
+        margin-right: 50PX;
+        border: 1px solid rgba(0, 0, 0, 0.25);
+        display: inline-block;
+        position: relative;
+        vertical-align: middle;
+        text-align: left;
+        color: rgb(170, 165, 165);
+        background: #000000;
+        justify-content: space-between;
+        float: right;
+        font-family: Comic Sans MS;
+    }
+#top-area{
+        height: 500px;
+     background-color: black
+   
+} 
+.half-width{
+          width: 50%;
+          float: left;
+
+}
+section{
+          padding: 25px;
+}
+
+.left img{
+        width: 50%;
+        float: left;
+                
+}
+#top-area .right{
+          padding: 110px 0;
+          color: rgb(170, 165, 165);
+}
+         
+.right button{
+                padding: 8px 20px;
+                color: rgb(160, 158, 158);
+                text-transform: uppercase;
+                background-color: rgb(39, 37, 37);
+                border: none;
+                border-radius: 8px;
+}
+         
+ button a {
+                color: #fff;
+                text-decoration: none;
+                font-size: 15px;
+}
+img.center {
+        width: 40px;
+        padding: 23px;
+        float: right;
+}
+img.center1 {
+        width: 53px;
+        padding: 22px;
+        float: right;
+}
